@@ -1,6 +1,11 @@
 # writing-log-odt: Writing Log for Open Office
 
-Version 0.3 of the writing log is divided into four sections: project intiation; daily entries; future additions and tangents; and Guidelines, checklists, protocols, and helpful.
+Version 0.3 of the writing log is divided into four sections: 
+
+- project intiation
+- daily entries
+- future additions and tangents
+- Guidelines, checklists, protocols, and helpful tips
 
 ## Project intiation
 
