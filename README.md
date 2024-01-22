@@ -1,2 +1,1 @@
-# writing-log-odt
-writing-log-odt: Writing Log for Open Office
+# writing-log-odt: Writing Log for Open Office
