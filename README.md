@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/static/v1?label=writing-log-odt&message=0.3&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # writing-log-odt: Writing Log for Open Office
 
 Version 0.3 of the writing log is divided into four sections: 
