@@ -4,6 +4,8 @@
 
 # writing-log-odt: Writing Log for Open Office
 
+## Introduction
+
 This document should be readable by OpenOffice, LibreOffice, and MS Word.
 
 The writing log is a document that is external to the manuscript.
