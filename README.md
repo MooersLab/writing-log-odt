@@ -3,6 +3,9 @@
 
 
 # writing-log-odt: Writing Log for Open Office
+
+This document should be readable by OpenOffice, LibreOffice, and MS Word.
+
 The writing log is a document that is external to the manuscript.
 It is used to store the plans and progress made on a one manuscript.
 It is tool for enhancing your focus and sustaining forward momentum on the writing project.
