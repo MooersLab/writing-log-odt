@@ -77,12 +77,12 @@ The subsections of these four sections are shown below.
 
 ## Related projects of possible interest
 
-- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginers can use this document easily on Overleaf without any configuration.
+- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginners can use this document easily on Overleaf without any configuration.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly more capable than markdown. It even supports literate programming.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Read and rendered to PDF by most good text editors.
 - [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx) MS Word variant. Probably the least suitable format for this task.
-- [Voice computing related repos](https://github.com/MooersLab#voice-computing)
+- [Voice computing-related repos](https://github.com/MooersLab#voice-computing)
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md)
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md)
 - [Workbook for 2022 for tracking time spent and words written by project](https://github.com/MooersLab/writingProgress2022)
@@ -100,3 +100,15 @@ The subsections of these four sections are shown below.
 - [The writer's crede](https://github.com/MooersLab/thewriterslaw)
 
 
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)
+
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:------------|:-------------------------------------------------------------------------------------------------------------------------------------------|:---------------------|
+| Version 0.3 |   Added funding and update table.                                                                                                          | 2024 August 13       |
